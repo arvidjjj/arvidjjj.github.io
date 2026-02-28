@@ -9,7 +9,8 @@
   <li>I worked on player mechanics(movement, shooting), morph ball and missile functionality, door and screen transitions, lava, and the player tracking camera.</li>
 </ul>
 <ul>
-<a href="https://arvidjjj.itch.io/factory">Factory game
+<a href="https://arvidjjj.itch.io/factory">Factory game</a>
+  <li>Simple factory themed box puzzle prototype.</li>
 </ul>
 
 </html>
