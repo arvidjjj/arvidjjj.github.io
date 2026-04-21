@@ -14,7 +14,7 @@
 </ul>
 
 <ul>
-<a href="https://changliu2025.itch.io/the-retriever">The Retriever by Santiago Fiori, Rowan Fila, Arvid Jonsson, and Chang Liu</a>
+<a href="https://changliu2025.itch.io/the-retriever">The Retriever </a> by Santiago Fiori, Rowan Fila, Arvid Jonsson, and Chang Liu
   <li></li>
 </ul>
 
