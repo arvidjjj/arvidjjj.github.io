@@ -15,7 +15,8 @@
 
 <ul>
 <a href="https://changliu2025.itch.io/the-retriever">The Retriever </a> by Santiago Fiori, Rowan Fila, Arvid Jonsson, and Chang Liu
-  <li></li>
+  <li>Top-down shooter where you fight Evil Inc. and rescue your stolen dog at all costs.</li>
+  <li>I led conceptual development in many key aspects and was primarily responsible for original art, particularly sprites. I also worked on bug fixing, preliminary map designs, and created the game trailer.</li>
 </ul>
 
 
